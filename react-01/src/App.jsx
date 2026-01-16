@@ -1,7 +1,10 @@
+import Card from './components/card.jsx'
 const App = () => {
   return (
     <>
-      <h1>Hello, React!</h1>
+      <Card />
+      <Card />
+      <Card />
     </>
   )
 }
